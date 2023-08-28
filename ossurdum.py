@@ -1,1 +1,1 @@
-print("fuk yu")
+print("fuk yur muter")
